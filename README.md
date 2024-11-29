@@ -51,19 +51,22 @@ Hi, I'm **Niraj Jha**, a passionate software developer from **Nepal**, exploring
 ## 🛠️ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nrz07&show_icons=true&theme=tokyonight" alt="Niraj's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrz07&theme=tokyonight" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nrzx07&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nrzx07&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="49%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrzx07&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+
 
 ---
 
 ## 🐍 Snake Animation
-
 <div align="center">
-  <img src="https://github.com/nrz07/nrz07/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/nrzx07/nrzx07/blob/output/snake.svg" alt="Snake animation" />
 </div>
-
----
 
 ## 🌟 Dynamic Badges & Fun
 
@@ -73,5 +76,5 @@ Hi, I'm **Niraj Jha**, a passionate software developer from **Nepal**, exploring
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 </p>
 
-✨ *Generated with ❤️ for Niraj Cinematic Universe* ✨
+✨ *Generated with ❤️ Niraj Cinematic Universe* ✨
 
