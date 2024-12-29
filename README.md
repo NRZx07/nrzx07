@@ -1,4 +1,4 @@
-# 🌟 Niraj Jha - The COMPUTER SCIENCE STUDENT 🌟
+# 🌟 Niraj Jha - The Passionate Learner 🌟
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nrz07&style=flat-square&color=brightgreen)
 ![GitHub Followers](https://img.shields.io/github/followers/nrz07?style=flat-square&color=blue)
