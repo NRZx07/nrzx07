@@ -5,16 +5,16 @@
 ![GitHub Stars](https://img.shields.io/github/stars/nrz07?style=flat-square&color=yellow)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F70000&width=800&lines=Hello%2C+I'm+Niraj+Jha;Software+Developer+from+Nepal;Learning+DevOps+and+Cloud+Technologies;Skilled+in+Python%2C+C%2C+C%2B%2B%2C+Linux;Content+Creator+%E2%9C%85;Welcome+to+My+GitHub+Profile+%F0%9F%92%BB" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F70000&width=800&lines=Hello%2C+I'm+Niraj+Jha;Software+Developer+from+Nepal;Learning+Mern Stack+and+Gen AI+Technologies;Skilled+in+Python%2C+C%2C+C%2B%2B%2C+Linux;Content+Creator+%E2%9C%85;Welcome+to+My+GitHub+Profile+%F0%9F%92%BB" alt="Typing Animation" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Niraj Jha**, a passionate software developer from **Nepal**, exploring the world of **DevOps and Cloud Technologies**.  
-- 🛠️ **Currently Learning**: Docker, Kubernetes, AWS, CI/CD.  
-- 🎯 **Career Goal**: To become a full-fledged **DevOps Engineer**.  
+Hi, I'm **Niraj Jha**, a passionate software developer from **Nepal**, exploring the world of **Development and AI Technologies**.  
+- 🛠️ **Currently Learning**: REACT, Express,Node js, GenAI.  
+- 🎯 **Career Goal**: To become a full-fledged **Software Engineer**.  
 - ✨ **Fun Fact**: I love creating videos for my [YouTube Channel](https://youtube.com/c/NirajCinematicUniverse)!
 
 ---
