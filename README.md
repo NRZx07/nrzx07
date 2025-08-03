@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Niraj Jha**, a passionate software developer from **Nepal**, exploring the world of **Development and AI Technologies**.  
+Hi, I'm **Niraj Jha**, a passionate software developer , exploring the world of **Development and AI Technologies**.  
 - 🛠️ **Currently Learning**: REACT, Express,Node js, GenAI.  
 - 🎯 **Career Goal**: To become a full-fledged **Software Engineer**.  
 - ✨ **Fun Fact**: I love creating videos for my [YouTube Channel](https://youtube.com/c/NirajCinematicUniverse)!
