@@ -5,7 +5,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/nrz07?style=flat-square&color=yellow)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F70000&width=800&lines=Hello%2C+I'm+Niraj+Jha;Software+Developer+from+Nepal;Learning+MernStack+and+GenAI+Technologies;Skilled+in+Python%2C+C%2C+C%2B%2B%2C+Linux;Content+Creator+%E2%9C%85;Welcome+to+My+GitHub+Profile+%F0%9F%92%BB" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F70000&width=800&lines=Hello%2C+I'm+Niraj+Jha;Software+Developer;Learning+MernStack+and+GenAI+Technologies;Skilled+in+Python%2C+C%2C+C%2B%2B%2C+Linux;Content+Creator+%E2%9C%85;Welcome+to+My+GitHub+Profile+%F0%9F%92%BB" alt="Typing Animation" />
 </div>
 
 ---
