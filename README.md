@@ -1,6 +1,7 @@
 # 🌟 Niraj Jha - The Passionate Learner 🌟
 
-![WhatsApp Image 2026-03-06 at 8 56 19 PM](https://github.com/user-attachments/assets/2258a9c6-fafb-4b64-bdb1-a69eb3297eb2)
+<img width="13616" height="5440" alt="banner" src="https://github.com/user-attachments/assets/af4b33e9-8012-4fb3-93b4-f2519dd7081c" />
+
 
 
 
