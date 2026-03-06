@@ -85,5 +85,5 @@ Hi, I'm **Niraj Jha**, a passionate software developer , exploring the world of 
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 </p>
 
-✨ *Generated with ❤️ Niraj Cinematic Universe* ✨
+✨ *Generated with ❤️ Niraj Jha* ✨
 
