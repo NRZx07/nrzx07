@@ -1,5 +1,13 @@
 # 🌟 Niraj Jha - The Passionate Learner 🌟
 
+![WhatsApp Image 2026-03-06 at 8 56 19 PM](https://github.com/user-attachments/assets/2258a9c6-fafb-4b64-bdb1-a69eb3297eb2)
+
+
+
+
+
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=nrz07&style=flat-square&color=brightgreen)
 ![GitHub Followers](https://img.shields.io/github/followers/nrz07?style=flat-square&color=blue)
 ![GitHub Stars](https://img.shields.io/github/stars/nrz07?style=flat-square&color=yellow)
